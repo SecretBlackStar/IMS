@@ -1,0 +1,54 @@
+D:\Project\IMS\IMS\bin\Release\IMS.exe.config
+D:\Project\IMS\IMS\bin\Release\IMS.exe
+D:\Project\IMS\IMS\bin\Release\IMS.pdb
+D:\Project\IMS\IMS\bin\Release\Newtonsoft.Json.dll
+D:\Project\IMS\IMS\bin\Release\Newtonsoft.Json.xml
+D:\Project\IMS\IMS\obj\Release\IMS.Properties.Resources.resources
+D:\Project\IMS\IMS\obj\Release\IMS.csproj.GenerateResource.cache
+D:\Project\IMS\IMS\obj\Release\IMS.csproj.CoreCompileInputs.cache
+D:\Project\IMS\IMS\obj\Release\IMS.csproj.CopyComplete
+D:\Project\IMS\IMS\obj\Release\IMS.exe
+D:\Project\IMS\IMS\obj\Release\IMS.pdb
+D:\Project\IMS\IMS\obj\Release\IMS.csprojAssemblyReference.cache
+D:\Project\IMS\IMS\obj\Release\IMS.IMS.resources
+D:\Project\IMS\IMS\bin\Release\PacketDotNet.dll
+D:\Project\IMS\IMS\bin\Release\SharpPcap.dll
+D:\Project\IMS\IMS\bin\Release\System.Buffers.dll
+D:\Project\IMS\IMS\bin\Release\System.Memory.dll
+D:\Project\IMS\IMS\bin\Release\System.Numerics.Vectors.dll
+D:\Project\IMS\IMS\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\IMS\IMS\bin\Release\System.Text.Encoding.CodePages.dll
+D:\Project\IMS\IMS\bin\Release\System.Buffers.xml
+D:\Project\IMS\IMS\bin\Release\System.Memory.xml
+D:\Project\IMS\IMS\bin\Release\System.Numerics.Vectors.xml
+D:\Project\IMS\IMS\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project\IMS\IMS\bin\Release\System.Text.Encoding.CodePages.xml
+D:\Project\IMS\IMS\obj\Release\Interop.SHDocVw.dll
+D:\Project\IMS\IMS\obj\Release\IMS.csproj.ResolveComReference.cache
+D:\Project\IMS - Copy\IMS\bin\Release\IMS.exe.config
+D:\Project\IMS - Copy\IMS\bin\Release\IMS.exe
+D:\Project\IMS - Copy\IMS\bin\Release\IMS.pdb
+D:\Project\IMS - Copy\IMS\bin\Release\Newtonsoft.Json.dll
+D:\Project\IMS - Copy\IMS\bin\Release\PacketDotNet.dll
+D:\Project\IMS - Copy\IMS\bin\Release\SharpPcap.dll
+D:\Project\IMS - Copy\IMS\bin\Release\System.Buffers.dll
+D:\Project\IMS - Copy\IMS\bin\Release\System.Memory.dll
+D:\Project\IMS - Copy\IMS\bin\Release\System.Numerics.Vectors.dll
+D:\Project\IMS - Copy\IMS\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\IMS - Copy\IMS\bin\Release\System.Text.Encoding.CodePages.dll
+D:\Project\IMS - Copy\IMS\bin\Release\Newtonsoft.Json.xml
+D:\Project\IMS - Copy\IMS\bin\Release\System.Buffers.xml
+D:\Project\IMS - Copy\IMS\bin\Release\System.Memory.xml
+D:\Project\IMS - Copy\IMS\bin\Release\System.Numerics.Vectors.xml
+D:\Project\IMS - Copy\IMS\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project\IMS - Copy\IMS\bin\Release\System.Text.Encoding.CodePages.xml
+D:\Project\IMS - Copy\IMS\obj\Release\IMS.csprojAssemblyReference.cache
+D:\Project\IMS - Copy\IMS\obj\Release\Interop.SHDocVw.dll
+D:\Project\IMS - Copy\IMS\obj\Release\IMS.csproj.ResolveComReference.cache
+D:\Project\IMS - Copy\IMS\obj\Release\IMS.IMS.resources
+D:\Project\IMS - Copy\IMS\obj\Release\IMS.Properties.Resources.resources
+D:\Project\IMS - Copy\IMS\obj\Release\IMS.csproj.GenerateResource.cache
+D:\Project\IMS - Copy\IMS\obj\Release\IMS.csproj.CoreCompileInputs.cache
+D:\Project\IMS - Copy\IMS\obj\Release\IMS.csproj.CopyComplete
+D:\Project\IMS - Copy\IMS\obj\Release\IMS.exe
+D:\Project\IMS - Copy\IMS\obj\Release\IMS.pdb
